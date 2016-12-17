@@ -19,8 +19,13 @@ namespace GitTest
         {
 
         }
-       
+
         static void D()
+        {
+
+        }
+
+        static void C()
         {
 
         }

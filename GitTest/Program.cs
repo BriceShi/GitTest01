@@ -17,7 +17,7 @@ namespace GitTest
         }
         static void B()
         {
-
+            ///fixbug5
         }
 
         static void D()

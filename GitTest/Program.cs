@@ -31,6 +31,7 @@ namespace GitTest
             ///fix bug1
             ///fix bug2
             ///fix bug3
+            ///fix bug4
             
         }
     }

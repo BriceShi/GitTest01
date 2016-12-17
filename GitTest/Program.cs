@@ -28,6 +28,7 @@ namespace GitTest
         static void C()
         {
             ///111
+            ///fix bug1
             
         }
     }
